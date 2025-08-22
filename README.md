@@ -1,6 +1,5 @@
 ## swirl package 
 
-You’re a student!
 The swirl R package makes it fun and easy to learn R programming and data science. If you are new to R, have no fear. On this page, we’ll walk you through each of the steps required to begin using swirl today!
 
 Step 1: Get R
