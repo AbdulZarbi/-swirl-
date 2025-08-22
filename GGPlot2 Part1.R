@@ -548,6 +548,3 @@ Selection: 2
 
   |========================================================================================================| 100%
 | Would you like to receive credit for completing this course on Coursera.org?
-
-1: No
-2: Yes
