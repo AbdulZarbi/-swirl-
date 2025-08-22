@@ -1,57 +1,19 @@
 library(swirl)
-swirl(
-  
-)
+swirl()
 > library(swirl)
-
 | Hi! Type swirl() when you are ready to begin.
-
-> swirl(
-  +   
-    + )
+> swirl()
 
 | Welcome to swirl! Please sign in. If you've been here before, use the same name
 | as you did then. If you are new, call yourself something unique.
 
 What shall I call you? Abdul 
 
-| Would you like to continue with one of these lessons?
-
-1: R Programming Base Graphics
-2: No. Let me start something new.
-
-Selection: 2
-
-| Please choose a course, or type 0 to exit swirl.
-
-1: Advanced R Programming
-2: Exploratory Data Analysis
-3: Getting and Cleaning Data
-4: R Programming
-5: Take me to the swirl course repository!
-
-Selection: 2
-
-| Please choose a lesson, or type 0 to return to course menu.
-
- 1: Principles of Analytic Graphs   2: Exploratory Graphs           
- 3: Graphics Devices in R           4: Plotting Systems             
- 5: Base Plotting System            6: Lattice Plotting System      
- 7: Working with Colors             8: GGPlot2 Part1                
- 9: GGPlot2 Part2                  10: GGPlot2 Extras               
-11: Hierarchical Clustering        12: K Means Clustering           
-13: Dimension Reduction            14: Clustering Example           
-15: CaseStudy                      
-
-Selection: 6
-
 | Attempting to load lesson dependencies...
 
 | Package ‘lattice’ loaded correctly!
 
-| Package ‘ggplot2’ loaded correctly!
-
-  |                                                                          |   0%
+| Package ‘ggplot2’ loaded correctly!                                                                    |   0%
 
 | Lattice_Plotting_System. (Slides for this and other Data Science courses may be
 | found at github https://github.com/DataScienceSpecialization/courses/. If you
