@@ -950,7 +950,3 @@ Selection: 2
                 Grade submission succeeded!
                   
                   | Perseverance, that's the answer.
-
-| You've reached the end of this lesson! Returning to the main menu...
-                
-                | Would you like to continue with one of these lessons?
